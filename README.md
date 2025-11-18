@@ -46,7 +46,6 @@ deployment life cycle using Ansible for improved security and compliance.
 <br><br>
 
 **Database Administrator for Oracle ACS (Tier 3 DBA) @ Oracle (Teleperformance)** | Linlithgow | _Jun 2014 - Aug 2021_ <br>
-
 Monitor and managed customers Oracle Database systems including Oracle RAC, ASM,
 Exadata, Data Guard, OMS
 
