@@ -104,6 +104,7 @@ Help-desk support to installer and maintenance technicians
 
 ## 💬 Languages
 UK **English**
+
 ES **Spanish**
 <br><br>
 
