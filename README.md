@@ -17,7 +17,7 @@ ensure that presented tasks will be handled through to completion in an efficien
 professional manner.
 <br><br>
 ## 💼 Experience
-**Oracle Database Administrator (Engineering Team) @ Deutsche Bank (avato consulting ag)** | Edinburgh | _Aug 2021 - PRESENT_ <br>
+**Oracle Database Administrator (Engineering Team) @ Deutsche Bank (avato consulting ag)** | Edinburgh | _Aug 2021 - PRESENT_
 
 My primary function within the Database Engineering Team is to design, implement, and
 maintain scalable solutions across key areas, including:
@@ -45,7 +45,7 @@ tooling, specifically Oracle ZDM and GoldenGate Maximum Availability Architectur
 deployment life cycle using Ansible for improved security and compliance.
 <br><br>
 
-**Database Administrator for Oracle ACS (Tier 3 DBA) @ Oracle (Teleperformance)** | Linlithgow | _Jun 2014 - Aug 2021_ <br>
+**Database Administrator for Oracle ACS (Tier 3 DBA) @ Oracle (Teleperformance)** | Linlithgow | _Jun 2014 - Aug 2021_
 Monitor and managed customers Oracle Database systems including Oracle RAC, ASM,
 Exadata, Data Guard, OMS
 
@@ -70,21 +70,21 @@ The role included:
 ▪ Training and presentations development and delivering of different Oracle Technologies
 <br><br>
 
-**Oracle Control Centre Engineer (Tier 2) @ Oracle (Teleperformance)** | Linlithgow | _Oct 2012 - Jun 2014_ <br>
+**Oracle Control Centre Engineer (Tier 2) @ Oracle (Teleperformance)** | Linlithgow | _Oct 2012 - Jun 2014_
 
 This role is part of the Advanced Monitoring and Resolution project in Oracle providing
 Remote Support and System Administration to a big range of Worldwide Customers on both
 English and Spanish
 <br><br>
 
-**Customer Service Adviser @ HMRC (Teleperformance)** | Bathgate | _Jan 2012 - Oct 2012_ <br>
+**Customer Service Adviser @ HMRC (Teleperformance)** | Bathgate | _Jan 2012 - Oct 2012_
 
 ▪ Delivering a first class, professional customer service for HMRC Tax Credit Department
 
 ▪ Resolving customer enquiries and complaints
 <br><br>
 
-**Waiter Supervisor @ The Castle Arms**  | Edinburgh  |  _Jul 2010 - Jan 2012_ <br>
+**Waiter Supervisor @ The Castle Arms**  | Edinburgh  |  _Jul 2010 - Jan 2012_
 
 Till counts, operate register, managing store
 Handle customer service, questions & complaints
@@ -93,16 +93,23 @@ Providing lunch / dinner service for customers at The Castle Arms restaurant
 **Waiter @ The Castle Arms**  | Edinburgh  |  _Apr 2010 - Jul 2010_
 <br><br>
 
-**VoIP Network administrator @ Telecor (H-tecnología)**  |  Seville (Spain)  |  _May 2006  - Feb 2010_ <br>
+**VoIP Network administrator @ Telecor (H-tecnología)**  |  Seville (Spain)  |  _May 2006  - Feb 2010_
 
 Configuration, maintenance and remote administration of Voice over IP network at 
 “Junta de Andalucía” (regional government). The network was composed by:
+
 Cisco routers (801, 831/871, 837/877, 1701/1721, 1801)
+
 Allied Telesis Switch (AT 8012M)
+
 Nortel Business Communications Manager (BCM 200/400, BCM 50)
+
 Mediatrix VoIP Gateways (4100, 4400 series)
+
 Aperto / Alvarion antenna (to LMDS access)
+
 Teaching courses to installer and maintenance technicians
+
 Help-desk support to installer and maintenance technicians
 <br><br>
 
