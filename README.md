@@ -1,8 +1,9 @@
 # Victor Torres
-_Oracle Database Administrator_ <br>
-[Email](mailto:solifugo@gmail.com) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/Project-42)
-CV PDF Version 
+## _Oracle Database Administrator_ <br>
+📍Currently based in Edinburgh UK
 
+[CV in PDF Version](https://github.com/Project-42/Victor_CV/blob/main/Victor%20Torres%20CV.pdf) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [Email](mailto:solifugo@gmail.com) / [DEV](https://dev.to/project42) / [GitHub](https://github.com/Project-42)
+<br><br>
 ## 👨🏻‍💻 Profile
 
 Experienced Oracle DBA on versions 11g to 19c, specializing in Exadata and other Oracle
@@ -14,7 +15,7 @@ excellent customer service ensuring high standard customer satisfaction.
 With my clear logical mind and a practical hands on approach to problem solving, I can
 ensure that presented tasks will be handled through to completion in an efficient and
 professional manner.
-
+<br><br>
 ## 💼 Experience
 **Oracle Database Administrator (Engineering Team) @ avato consulting ag (Deutsche Bank - Contractor)** | Edinburgh | _Aug 2021 - PRESENT_
 
@@ -42,12 +43,13 @@ tooling, specifically Oracle ZDM and GoldenGate Maximum Availability Architectur
 
 ▪ Drive the current Oracle Software patching strategy, implementing and automating the
 deployment life cycle using Ansible for improved security and compliance.
+<br><br>
 
 **Database Administrator for Oracle ACS (Tier 3 DBA) @ Oracle (Teleperformance)** | Linlithgow | _Jun 2014 - Aug 2021_
 Monitor and managed customers Oracle Database systems including Oracle RAC, ASM,
 Exadata, Data Guard, OMS
 
-Current role includes:
+The role included:
 
 ▪ Oracle Software and Database deployment
 
@@ -66,16 +68,18 @@ Current role includes:
 ▪ Knowledge management
 
 ▪ Training and presentations development and delivering of different Oracle Technologies
+<br><br>
 
 **Oracle Control Centre Engineer (Tier 2) @ Oracle (Teleperformance)** | Linlithgow | _Oct 2012 - Jun 2014_
 This role is part of the Advanced Monitoring and Resolution project in Oracle providing
 Remote Support and System Administration to a big range of Worldwide Customers on both
 English and Spanish
+<br><br>
 
 **Customer Service Adviser @ HMRC (Teleperformance)** | Bathgate | _Jan 2012 - Oct 2012_
 ▪ Delivering a first class, professional customer service for HMRC Tax Credit Department
 ▪ Resolving customer enquiries and complaints
-
+<br><br>
 
 ## 💬 Languages
 UK **English**
