@@ -17,7 +17,7 @@ ensure that presented tasks will be handled through to completion in an efficien
 professional manner.
 <br><br>
 ## 💼 Experience
-**Oracle Database Administrator (Engineering Team) @ avato consulting ag (Deutsche Bank - Contractor)** | Edinburgh | _Aug 2021 - PRESENT_
+**Oracle Database Administrator (Engineering Team) @ Deutsche Bank (avato consulting ag)** | Edinburgh | _Aug 2021 - PRESENT_
 
 My primary function within the Database Engineering Team is to design, implement, and
 maintain scalable solutions across key areas, including:
