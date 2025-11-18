@@ -4,7 +4,7 @@
 
 [CV in PDF Version](https://github.com/Project-42/Victor_CV/blob/main/Victor%20Torres%20CV.pdf) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [Email](mailto:solifugo@gmail.com) / [DEV](https://dev.to/project42) / [GitHub](https://github.com/Project-42)
 <br><br>
-## 👨🏻‍💻 Profile
+## 👨🏻‍💻 Profile 
 
 Experienced Oracle DBA on versions 11g to 19c, specializing in Exadata and other Oracle
 engineered systems like SuperCluster and Oracle Cloud (OCI and ExaCC/ExaCS)
