@@ -128,7 +128,7 @@ ES **Spanish**
 <br><br>
 
 ## 👾 Interests
-Photography, Running, Photography, Raspberry Pi, DevOps, Ansible
+Photography, Running, Lego, Raspberry Pi, DevOps, Ansible
 <br><br>
 
 ## 📖 Favourite Books
