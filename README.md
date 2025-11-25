@@ -1,4 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico"> <br>
 # Victor Torres
 ## _Oracle Database Administrator_ <br>
 📍Currently based in Edinburgh UK
