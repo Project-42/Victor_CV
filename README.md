@@ -2,7 +2,7 @@
 ## _Oracle Database Administrator_ <br>
 📍Currently based in Edinburgh UK
 
-[CV in PDF Version](https://github.com/Project-42/Victor_CV/blob/main/Victor%20Torres%20CV.pdf) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [Email](mailto:solifugo@gmail.com) / [DEV](https://dev.to/project42) / [GitHub](https://github.com/Project-42)
+[CV in PDF Version](https://github.com/Project-42/Victor_CV/blob/main/Victor%20Torres%20CV.pdf) / [LinkedIn](https://www.linkedin.com/in/victor-torres-m/) / [Email](mailto:solifugo@gmail.com) / [DEV](https://dev.to/project42) / [GitHub](https://github.com/Project-42)
 <br><br>
 ## 👨🏻‍💻 Profile 
 
