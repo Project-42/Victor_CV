@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico"> <br>
 # Victor Torres
 ## _Oracle Database Administrator_ <br>
 📍Currently based in Edinburgh UK
@@ -134,5 +135,3 @@ Photography, Running, Lego, Raspberry Pi, DevOps, Ansible
 ## 📖 Favourite Books
 The Hitchhiker's Guide to the Galaxy, The Foundation series, Brave New World
 <br><br>
-
-<link rel="shortcut icon" type="image/x-icon" href="favicon.png"> <br>
