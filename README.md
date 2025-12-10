@@ -1,24 +1,24 @@
 # Victor Torres
-## _Oracle Database Administrator_ <br>
+## _Senior Oracle Database Engineer_ <br>
 📍Currently based in Edinburgh UK
 
 [CV in PDF Version](https://github.com/Project-42/Victor_CV/blob/main/Victor%20Torres%20CV.pdf) / [LinkedIn](https://www.linkedin.com/in/victor-torres-m/) / [Email](mailto:solifugo@gmail.com) / [DEV](https://dev.to/project42) / [GitHub](https://github.com/Project-42)
 <br><br>
-## 👨🏻‍💻 Profile 
+## 👨🏻‍💻 PROFILE 
 
-Experienced Oracle DBA on versions 11g to 19c, specializing in Exadata and other Oracle
-engineered systems like SuperCluster and Oracle Cloud (OCI and ExaCC/ExaCS)
-
-Working directly for some of Oracle biggest International Clients, I am committed to deliver
-excellent customer service ensuring high standard customer satisfaction.
-
-With my clear logical mind and a practical hands on approach to problem solving, I can
-ensure that presented tasks will be handled through to completion in an efficient and
-professional manner.
+Senior **Oracle Database Engineer** specializing in automation, **DevOps** methodologies, and cloud migrations within enterprise environments. 
+Proven expertise in orchestrating scalable, zero-downtime solutions using Ansible and Automic Workflow to streamline deployment lifecycles. 
+Adept at driving **Agile infrastructure projects**, including complex **Oracle Cloud@Customer** migrations and automated patching strategies. 
+Strong technical foundation in **Oracle RAC, Exadata, and Data Guard**, blending deep database reliability with modern engineering practices.
 <br><br>
-## 💼 Experience
-**Oracle Database Administrator (Engineering Team)** <br>
-**@ Deutsche Bank (avato consulting ag)** | Edinburgh/Frankfurt | _Aug 2021 - PRESENT_
+## 🛠️ CORE SKILLS
+▪ **Oracle Technologies:** Oracle Database, Oracle Exadata, Oracle GoldenGate, Oracle Data Guard, Real Application Clusters (RAC), Zero Downtime Migration (ZDM), MAA (Maximum Availability Architecture), OEM
+
+▪ **Others:** Ansible, Bash Scripting, Linux Administration
+
+## 💼 EXPERIENCE
+**Oracle Database Administrator at Engineering Team** <br>
+**@ Deutsche Bank (avato consulting ag)** | Edinburgh/Frankfurt | _Aug 2021 - Present_
 
 My primary function within the Database Engineering Team is to design, implement, and
 maintain scalable solutions across key areas, including:
@@ -50,7 +50,7 @@ deployment life cycle using Ansible for improved security and compliance.
 **@ Oracle (Teleperformance)** | Linlithgow | _Jun 2014 - Aug 2021_
 
 Monitor and managed customers Oracle Database systems including Oracle RAC, ASM,
-Exadata, Data Guard, OMS
+Exadata, Data Guard, OEM
 
 The role included:
 
@@ -89,15 +89,12 @@ English and Spanish
 ▪ Resolving customer enquiries and complaints
 <br><br>
 
-**Waiter Supervisor** <br>
-**@ The Castle Arms**  | Edinburgh  |  _Jul 2010 - Jan 2012_
+**Waiter / Supervisor** <br>
+**@ The Castle Arms**  | Edinburgh  |  _Apr 2010 - Jan 2012_
 
 Till counts, operate register, managing store
 Handle customer service, questions & complaints
 Providing lunch / dinner service for customers at The Castle Arms restaurant
-<br><br>
-**Waiter** <br>
-**@ The Castle Arms**  | Edinburgh  |  _Apr 2010 - Jul 2010_
 <br><br>
 
 **VoIP Network administrator** <br>
@@ -121,16 +118,12 @@ Teaching courses to installer and maintenance technicians
 Help-desk support to installer and maintenance technicians
 <br><br>
 
-## 💬 Languages
-UK **English**
+## 👨‍🎓EDUCATION
+**Level in national or international classification: BTEC Network Administrator Technician**
+Lucus Solis / Seville, Spain  |  1998-2001
 
-ES **Spanish**
+## 👾 INTERESTS
+▪ Photography, Lego, Running
+▪ Raspberry Pi, Ansible, Home Automation
 <br><br>
 
-## 👾 Interests
-Photography, Running, Lego, Raspberry Pi, DevOps, Ansible
-<br><br>
-
-## 📖 Favourite Books
-The Hitchhiker's Guide to the Galaxy, The Foundation series, Brave New World
-<br><br>
