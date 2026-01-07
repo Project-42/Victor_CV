@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="css/style.css">
 # Victor Torres
 ## _Senior Oracle Database Engineer_ <br>
 📍Currently based in Edinburgh UK
