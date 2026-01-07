@@ -18,7 +18,7 @@ Strong technical foundation in **Oracle RAC, Exadata, and Data Guard**, blending
 
 ## 💼 EXPERIENCE
 **Oracle Database Administrator at Engineering Team** <br>
-**@ Deutsche Bank (avato consulting)** | Edinburgh/Frankfurt | _Aug 2021 - Dec 2025_
+**@ Deutsche Bank (avato consulting)** | Remote | _Aug 2021 - Dec 2025_
 
 My primary function within the Database Engineering Team is to design, implement, and
 maintain scalable solutions across key areas, including:
