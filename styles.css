@@ -1,0 +1,10 @@
+.sidebar-wrapper {
+    background: #42A8C0;
+    position: absolute;
+    fixed: margin;
+    top: 0;
+    left: 0;
+    width: 50px; /* CHANGE THIS VALUE */
+    min-height: 100%;
+    color: #fff;
+}
