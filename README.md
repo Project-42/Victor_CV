@@ -49,11 +49,6 @@ deployment life cycle using Ansible for improved security and compliance.
 **Database Administrator for Oracle ACS (Tier 3 DBA)** <br>
 **@ Oracle (Teleperformance)** | Linlithgow | _Jun 2014 - Aug 2021_
 
-Monitor and managed customers Oracle Database systems including Oracle RAC, ASM,
-Exadata, Data Guard, OEM
-
-The role included:
-
 ▪ Oracle Software and Database deployment
 
 ▪ Configuration and maintenance of Data Guard Configuration
@@ -62,21 +57,21 @@ The role included:
 
 ▪ Design and maintenance activities including patching and Database Refresh
 
-▪ Database Performance tuning and daily issues troubleshooting and root cause analysis (RCA)
+▪ Database Performance tuning, issues troubleshooting and root cause analysis (RCA)
 
-▪ Resolution of escalated issues in critical situations with constant commication with the customer technology stakeholders
-
-▪ System analysis and reporting
+▪ Resolution of escalated issues in critical situations with constant communication with the customer technology stakeholders
 
 ▪ Knowledge management
 
 ▪ Training and presentations development and delivering of different Oracle Technologies
+
 <br><br>
 
 **Oracle Control Centre Engineer (Tier 2)** <br>
 **@ Oracle (Teleperformance)** | Linlithgow | _Oct 2012 - Jun 2014_
 
 ▪ Global Partner Support: Provided remote support and system administration for a wide range of worldwide customers as part of an Advanced Monitoring and Resolution project.
+
 ▪ Multilingual Communication: Delivered technical support in both English and Spanish, maintaining professionalism across diverse partner regions.
 <br><br>
 
@@ -99,22 +94,11 @@ Providing lunch / dinner service for customers at The Castle Arms restaurant
 **VoIP Network administrator** <br>
 **@ Telecor (H-tecnología)**  |  Seville (Spain)  |  _May 2006  - Feb 2010_
 
-Configuration, maintenance and remote administration of Voice over IP network at 
-“Junta de Andalucía” (regional government). The network was composed by:
+▪ Configured, maintained, and administered a Voice over IP network at "Junta de Andalucía"
 
-Cisco routers (801, 831/871, 837/877, 1701/1721, 1801)
+▪ The network included: Cisco routers, Allied Telesis Switch (AT 8012M), Nortel Business Communications Manager, Mediatrix VoIP Gateways, and Aperto/Alvarion antenna.
 
-Allied Telesis Switch (AT 8012M)
-
-Nortel Business Communications Manager (BCM 200/400, BCM 50)
-
-Mediatrix VoIP Gateways (4100, 4400 series)
-
-Aperto / Alvarion antenna (to LMDS access)
-
-Teaching courses to installer and maintenance technicians
-
-Help-desk support to installer and maintenance technicians
+▪ Provided Training and Help-desk support to installer and maintenance technicians.
 <br><br>
 
 ## 👨‍🎓EDUCATION
