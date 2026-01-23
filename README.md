@@ -60,11 +60,11 @@ The role included:
 
 ▪ Systems administration for customer’s critical environments
 
-▪ Design and maintenance activities including patching
+▪ Design and maintenance activities including patching and Database Refresh
 
-▪ Database Performance tuning and daily issues troubleshooting
+▪ Database Performance tuning and daily issues troubleshooting and root cause analysis (RCA)
 
-▪ Resolution of escalated issues in critical situations
+▪ Resolution of escalated issues in critical situations with constant commication with the customer technology stakeholders
 
 ▪ System analysis and reporting
 
@@ -76,9 +76,8 @@ The role included:
 **Oracle Control Centre Engineer (Tier 2)** <br>
 **@ Oracle (Teleperformance)** | Linlithgow | _Oct 2012 - Jun 2014_
 
-This role is part of the Advanced Monitoring and Resolution project in Oracle providing
-Remote Support and System Administration to a big range of Worldwide Customers on both
-English and Spanish
+▪ Global Partner Support: Provided remote support and system administration for a wide range of worldwide customers as part of an Advanced Monitoring and Resolution project.
+▪ Multilingual Communication: Delivered technical support in both English and Spanish, maintaining professionalism across diverse partner regions.
 <br><br>
 
 **Customer Service Adviser** <br>
