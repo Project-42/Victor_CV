@@ -8,8 +8,7 @@
 
 Senior **Oracle Database Engineer** specializing in automation, **DevOps** methodologies, and cloud migrations within enterprise environments. 
 Proven expertise in orchestrating scalable, zero-downtime solutions using Ansible and Automic Workflow to streamline deployment lifecycles. 
-Adept at driving **Agile infrastructure projects**, including complex **Oracle Cloud@Customer** from 11g to 19c and 23ai as well as automated patching strategies.  
-Strong technical foundation in **Oracle RAC, Exadata, and Data Guard**, blending deep database reliability with modern engineering practices.
+Adept at driving **Agile infrastructure projects**, including complex **Oracle Cloud@Customer** from 11g to 19c and 23ai as well as automated patching strategies. Strong technical foundation in **Oracle RAC, Exadata, and Data Guard**, blending deep database reliability with modern engineering practices.
 <br><br>
 ## 🛠️ CORE SKILLS
 ▪ **Oracle Technologies:** Oracle Database, Oracle Exadata, Oracle GoldenGate, Oracle Data Guard, Real Application Clusters (RAC), Zero Downtime Migration (ZDM), MAA (Maximum Availability Architecture), OEM
