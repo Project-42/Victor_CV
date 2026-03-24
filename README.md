@@ -11,7 +11,7 @@ Proven expertise in orchestrating scalable, zero-downtime solutions using Ansibl
 Adept at driving **Agile infrastructure projects**, including complex **Oracle Cloud@Customer** from 11g to 19c and 23ai as well as automated patching strategies. Strong technical foundation in **Oracle RAC, Exadata, and Data Guard**, blending deep database reliability with modern engineering practices.
 <br><br>
 ## 🛠️ CORE SKILLS
-▪ **Oracle Technologies:** Oracle Database, Oracle Exadata, Oracle GoldenGate, Oracle Data Guard, Real Application Clusters (RAC), Zero Downtime Migration (ZDM), MAA (Maximum Availability Architecture), OEM
+▪ **Oracle Technologies:** Oracle Database, Oracle Exadata, Oracle GoldenGate, Oracle Data Guard, Real Application Clusters (RAC), Zero Downtime Migration (ZDM), Application Continuity (AC/TAC), Maximum Availability Architecture (MAA), OEM
 
 ▪ **Others:** Ansible, Bash Scripting, Linux Administration
 
@@ -38,8 +38,7 @@ business continuity.
 projects involving Advanced Customer Services (ACS)/Technical Account Coordination
 (TAC) and Zero Downtime Migration (ZDM) initiatives.
 
-▪ Develop and standardise Zero Downtime Migration blueprints using advanced Oracle
-tooling, specifically Oracle ZDM and GoldenGate Maximum Availability Architecture (MAA).
+▪ Developed and standardized Zero Downtime Migration blueprints using advanced Oracle tooling, specifically Oracle ZDM and GoldenGate Microservices Architecture (MA).
 
 ▪ Drive the current Oracle Software patching strategy, implementing and automating the
 deployment life cycle using Ansible for improved security and compliance.
