@@ -17,6 +17,12 @@ Adept at driving **Agile infrastructure projects**, including complex **Oracle C
 
 ## 💼 EXPERIENCE
 **Oracle Database Administrator at Engineering Team** <br>
+**@ Deutsche Bank (AMS)** | Remote | _Apr 2026 - Present_
+
+Rejoined the Database Engineering Team to drive advanced infrastructure automation,
+cloud scaling, and database lifecycle management
+
+**Oracle Database Administrator at Engineering Team** <br>
 **@ Deutsche Bank (avato consulting)** | Remote | _Aug 2021 - Dec 2025_
 
 My primary function within the Database Engineering Team is to design, implement, and
@@ -40,8 +46,6 @@ projects involving Advanced Customer Services (ACS)/Technical Account Coordinati
 
 ▪ Developed and standardized Zero Downtime Migration blueprints using advanced Oracle tooling, specifically Oracle ZDM and GoldenGate Microservices Architecture (MA).
 
-▪ Drive the current Oracle Software patching strategy, implementing and automating the
-deployment life cycle using Ansible for improved security and compliance.
 <br><br>
 
 **Database Administrator for Oracle ACS (Tier 3 DBA)** <br>
